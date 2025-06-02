@@ -1,0 +1,634 @@
+fileFormatVersion: 2
+guid: 1f6a888a5555239428beb208a3b40497
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Anakin(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ex_LOD0_frontClothMeshShapeDeformed
+      parentName: Anakin(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ex_LOD0_rearClothMeshShapeDeformed
+      parentName: Anakin(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ex_LOD0exportPreppedShape1#1
+      parentName: Anakin(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ex_LOD0exportPreppedShape1#0
+      parentName: Anakin(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ex_LOD0exportPreppedShape1#2
+      parentName: Anakin(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ex_LOD0exportPreppedShape1#3
+      parentName: Anakin(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: EB79E903
+      parentName: Anakin(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 2C4CF083
+      parentName: EB79E903
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 3557C1C2
+      parentName: EB79E903
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 1E7A9201
+      parentName: EB79E903
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 0761A340
+      parentName: EB79E903
+      position: {x: -0.01, y: 0.01, z: 0.01}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 48203587
+      parentName: EB79E903
+      position: {x: -0.01, y: 0.01, z: 0.01}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 513B04C6
+      parentName: EB79E903
+      position: {x: -0.01, y: 0.01, z: 0.01}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 1C048FF5
+      parentName: EB79E903
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: F262D842
+      parentName: EB79E903
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 81E9F174
+      parentName: F262D842
+      position: {x: -0, y: 0.00975889, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: A4D3F658
+      parentName: 81E9F174
+      position: {x: -0, y: 0.0008073002, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BDC8C719
+      parentName: A4D3F658
+      position: {x: -0, y: 0.0010486484, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 96E594DA
+      parentName: BDC8C719
+      position: {x: -0, y: 0.0010546326, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 8FFEA59B
+      parentName: 96E594DA
+      position: {x: -0, y: 0.0014018655, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: D7F57200
+      parentName: 8FFEA59B
+      position: {x: -0, y: 0.0009323442, z: -2.264855e-19}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 8B866930
+      parentName: 8FFEA59B
+      position: {x: -0, y: 0, z: -0.002}
+      rotation: {x: 0.61237246, y: 0.35355338, z: -0.61237246, w: 0.35355338}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 27169617
+      parentName: 8FFEA59B
+      position: {x: -0, y: 0.0013658535, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 3E0DA756
+      parentName: 27169617
+      position: {x: -0, y: 0.0005518007, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 1520F495
+      parentName: 3E0DA756
+      position: {x: -0, y: 0.0005928922, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 7FEA3ECB
+      parentName: 1520F495
+      position: {x: 0.000029865949, y: -0.00023129582, z: -0.0008888844}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 27AA6F5E
+      parentName: 7FEA3ECB
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 1A723F6C
+      parentName: 1520F495
+      position: {x: -0.0004902398, y: 0.0013546598, z: 0.00085369806}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 7FF85C7C
+      parentName: 1520F495
+      position: {x: 0.0008570564, y: 0.0012496162, z: 0.00039161928}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 9C318E5A
+      parentName: 8FFEA59B
+      position: {x: -0.00037355485, y: 0.0009323442, z: 0.00056627754}
+      rotation: {x: 0.5070188, y: 0.45066065, z: -0.39704895, w: 0.6182144}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 72954F78
+      parentName: 9C318E5A
+      position: {x: 0.00030337088, y: -0.0013487245, z: -0.0005340599}
+      rotation: {x: -0.5943314, y: 0.17171308, z: -0.13176009, w: 0.7745477}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: F2A943F5
+      parentName: 9C318E5A
+      position: {x: -1.848665e-11, y: -0.0017402845, z: 6.508233e-10}
+      rotation: {x: 0.14422645, y: 0.7500915, z: -0.0514549, w: 0.64336145}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: AC1793C8
+      parentName: F2A943F5
+      position: {x: -1.5565424e-11, y: -0.0009095005, z: -6.151736e-12}
+      rotation: {x: -0.0000000012886734, y: -0.0070080925, z: -0.000000038373088, w: 0.99997544}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: 95D60E17
+      parentName: F2A943F5
+      position: {x: 5.6642935e-10, y: -0.0027285004, z: 3.7541368e-12}
+      rotation: {x: -0.0000000010197198, y: -0.000000003433121, z: -0.00000003409452, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 3027E997
+      parentName: 95D60E17
+      position: {x: 3.2329278e-10, y: -0.00089250033, z: -8.966952e-12}
+      rotation: {x: -0.0000000011363782, y: -0.0034906555, z: -0.000000033418257, w: 0.9999939}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 315F6CAF
+      parentName: 95D60E17
+      position: {x: -0.0010042816, y: -0.0022242067, z: 0.00014124533}
+      rotation: {x: 0.3296306, y: 0.94408196, z: 0.004191355, w: 0.0059475536}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: 0196E27E
+      parentName: 95D60E17
+      position: {x: -0.000000005911256, y: -0.0026774995, z: 0.0000000046225725}
+      rotation: {x: 0.31038362, y: 0.6397448, z: -0.2621888, w: 0.65241534}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: 83A36FFD
+      parentName: 0196E27E
+      position: {x: -0.000100000005, y: -0.00043000007, z: -0.00026000044}
+      rotation: {x: 0.5, y: 0.5, z: -0.5, w: 0.5}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: 03B6B7F4
+      parentName: 0196E27E
+      position: {x: 0.00021713374, y: 0.000053169875, z: -0.000117162286}
+      rotation: {x: -0.4619754, y: 0.4080905, z: 0.10412166, w: 0.78051233}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: 6CE25D72
+      parentName: 03B6B7F4
+      position: {x: -0.0000000056565437, y: -0.00060001615, z: -0.0000000046715916}
+      rotation: {x: 0.037237104, y: 0.0000001490116, z: -0.0000057220454, w: 0.9993065}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+    - name: 75F96C33
+      parentName: 6CE25D72
+      position: {x: 0.0000000024460438, y: -0.00039236157, z: 0.0000000060878897}
+      rotation: {x: 0.2476757, y: 0.040402237, z: -0.039970696, w: 0.96717465}
+      scale: {x: 1, y: 1, z: 1.0000002}
+    - name: 40868B30
+      parentName: 0196E27E
+      position: {x: 0.00011967566, y: -0.000093275645, z: 0.00010998861}
+      rotation: {x: -0.3930447, y: 0.005152194, z: -0.12844278, w: 0.91048986}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: 2FD261B6
+      parentName: 40868B30
+      position: {x: 0.000000011411309, y: -0.00071382057, z: -0.0000000010173222}
+      rotation: {x: -0.00013749753, y: -0.03790733, z: -0.0036230348, w: 0.9992747}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: 36C950F7
+      parentName: 2FD261B6
+      position: {x: -0.000000012201487, y: -0.00045215208, z: 0.0000000062307186}
+      rotation: {x: 0.023953434, y: -0.006327464, z: -0.0009098976, w: 0.9996927}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: 1DE40334
+      parentName: 36C950F7
+      position: {x: 0.000000008459435, y: -0.00029949064, z: -0.000000003867647}
+      rotation: {x: 0.21714102, y: 0.0288229, z: -0.033422366, w: 0.97514206}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: B3885259
+      parentName: 0196E27E
+      position: {x: -0.0000323782, y: -0.00007302132, z: 0.000102601494}
+      rotation: {x: -0.39031026, y: -0.009317724, z: -0.13237712, w: 0.9110694}
+      scale: {x: 1, y: 1, z: 1}
+    - name: B73C20A6
+      parentName: B3885259
+      position: {x: -0.0000000117341905, y: -0.00071632955, z: -0.0000000029847862}
+      rotation: {x: 0.036154624, y: -0.00019928362, z: 0.0011032826, w: 0.9993456}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: AE2711E7
+      parentName: B73C20A6
+      position: {x: 0.000000014615616, y: -0.0005100066, z: -8.190334e-11}
+      rotation: {x: 0.024435978, y: 0.0045284783, z: -0.0037304612, w: 0.99968415}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 850A4224
+      parentName: AE2711E7
+      position: {x: -0.000000011901746, y: -0.00036437355, z: -0.0000000052185936}
+      rotation: {x: 0.29138207, y: -0.017182358, z: -0.02083919, w: 0.9562254}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: D8436BAB
+      parentName: 0196E27E
+      position: {x: -0.00017176272, y: -0.00003172246, z: 0.00007024713}
+      rotation: {x: -0.39221132, y: -0.027526991, z: -0.1342052, w: 0.9096162}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: 3CDE0C7D
+      parentName: D8436BAB
+      position: {x: 0.000000010918115, y: -0.0006953978, z: -0.0000000042298582}
+      rotation: {x: 0.0033556044, y: 0.09407309, z: 0.0100133065, w: 0.9955093}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: 25C53D3C
+      parentName: 3CDE0C7D
+      position: {x: -0.0000000058162497, y: -0.0004576807, z: 0.0000000052079985}
+      rotation: {x: 0.02460158, y: -0.0015631758, z: -0.00024830736, w: 0.9996961}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999994}
+    - name: 0EE86EFF
+      parentName: 25C53D3C
+      position: {x: -7.233315e-11, y: -0.00034711484, z: -0.000000005229619}
+      rotation: {x: 0.2173037, y: 0.0051893587, z: 0.023303028, w: 0.9758121}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: 40C265DC
+      parentName: 0196E27E
+      position: {x: -0.0003030743, y: 0.000027970154, z: 0.0000314188}
+      rotation: {x: -0.39858335, y: -0.054993007, z: -0.12738813, w: 0.9065757}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: 2F968F5A
+      parentName: 40C265DC
+      position: {x: -0.000000018723137, y: -0.00065885286, z: -0.0000000028266205}
+      rotation: {x: -0.030414008, y: 0.15534738, z: -0.024963452, w: 0.98707604}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: 368DBE1B
+      parentName: 2F968F5A
+      position: {x: -0.000000005907962, y: -0.00035955632, z: 0.0000000079419324}
+      rotation: {x: 0.027163066, y: 0.00271131, z: -0.0027958043, w: 0.9996234}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 1DA0EDD8
+      parentName: 368DBE1B
+      position: {x: 0.0000021990022, y: -0.0002654221, z: -0.000000242264}
+      rotation: {x: 0.26985264, y: -0.001107752, z: -0.005456003, w: 0.96288556}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 293CD8D6
+      parentName: 95D60E17
+      position: {x: 8.2179064e-10, y: -0.0017849997, z: 1.1044801e-11}
+      rotation: {x: -0.0000000011128822, y: -0.0052359677, z: -0.000000017789901, w: 0.9999863}
+      scale: {x: 1, y: 1, z: 1}
+    - name: B50CA289
+      parentName: F2A943F5
+      position: {x: 1.2275936e-10, y: -2.649023e-10, z: -8.0757874e-12}
+      rotation: {x: -0.0000000012705498, y: -0.0068584303, z: -0.000000036568167, w: 0.9999765}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: 7918B0B8
+      parentName: 8FFEA59B
+      position: {x: 0.0003735546, y: 0.0009323537, z: 0.0005662758}
+      rotation: {x: -0.6182167, y: -0.39704576, z: -0.45065898, w: 0.50702}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 8E15A0B5
+      parentName: 7918B0B8
+      position: {x: -0.00030337018, y: 0.0013487273, z: 0.0005340506}
+      rotation: {x: -0.5943315, y: 0.17171276, z: -0.13175984, w: 0.77454776}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 17807D17
+      parentName: 7918B0B8
+      position: {x: 8.1159775e-12, y: 0.0017403748, z: -4.951763e-11}
+      rotation: {x: 0.14422987, y: 0.75009114, z: -0.051450513, w: 0.64336145}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: 9B99DD59
+      parentName: 17807D17
+      position: {x: 4.3805848e-10, y: 0.00090950064, z: 5.430551e-11}
+      rotation: {x: -0.000000013212973, y: -0.0070081693, z: -0.000005572934, w: 0.99997544}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: 70FF30F5
+      parentName: 17807D17
+      position: {x: 0.000000020497746, y: 0.0027285006, z: 1.4834277e-10}
+      rotation: {x: -0.0000000010197198, y: -0.000000003433121, z: -0.00000003409452, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 07A9A706
+      parentName: 70FF30F5
+      position: {x: -0.000000021959409, y: 0.00089249964, z: -5.6071645e-12}
+      rotation: {x: -0.0000000011363782, y: -0.0034906555, z: -0.000000033418257, w: 0.9999939}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 68A7C167
+      parentName: 70FF30F5
+      position: {x: 0.000000003648088, y: 0.0026775002, z: -0.000000005552804}
+      rotation: {x: 0.3104141, y: 0.63973236, z: -0.26221374, w: 0.65240294}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: BAC4DEA6
+      parentName: 68A7C167
+      position: {x: 0.0001, y: 0.00042999993, z: 0.00026000076}
+      rotation: {x: -0.5, y: 0.5, z: 0.5, w: 0.5}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: 4D571D9E
+      parentName: 68A7C167
+      position: {x: -0.00021713866, y: -0.00005318017, z: 0.00011715602}
+      rotation: {x: -0.46201485, y: 0.40807956, z: 0.104140796, w: 0.78049225}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: 08E0C491
+      parentName: 4D571D9E
+      position: {x: 0.000000018846727, y: 0.00060003274, z: 0.000000019212655}
+      rotation: {x: 0.03725412, y: 0.000001400709, z: -0.0000117719155, w: 0.9993059}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+    - name: 11FBF5D0
+      parentName: 08E0C491
+      position: {x: -2.6637503e-10, y: 0.00039235837, z: -0.000000009476188}
+      rotation: {x: 0.2476757, y: 0.040402237, z: -0.039970696, w: 0.96717465}
+      scale: {x: 1, y: 1, z: 1.0000002}
+    - name: 0E67215A
+      parentName: 68A7C167
+      position: {x: -0.000119673685, y: 0.000093276525, z: -0.00011000571}
+      rotation: {x: -0.3930964, y: 0.005154758, z: -0.12843554, w: 0.9104685}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: 4BD0F855
+      parentName: 0E67215A
+      position: {x: -0.0000000101717275, y: 0.0007138274, z: 0.000000013055132}
+      rotation: {x: -0.00013749753, y: -0.03790733, z: -0.0036230348, w: 0.9992747}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: 52CBC914
+      parentName: 4BD0F855
+      position: {x: 0.000000013684997, y: 0.00045215184, z: -0.000000019360824}
+      rotation: {x: 0.023931222, y: -0.006333592, z: -0.0009284422, w: 0.99969316}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: 79E69AD7
+      parentName: 52CBC914
+      position: {x: -0.000000019190399, y: 0.00029946963, z: 0.000000008950385}
+      rotation: {x: 0.21714102, y: 0.0288229, z: -0.033422366, w: 0.97514206}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: 1EA13BB5
+      parentName: 68A7C167
+      position: {x: 0.000032375356, y: 0.00007301469, z: -0.0001026101}
+      rotation: {x: -0.39035285, y: -0.009315996, z: -0.13237196, w: 0.9110519}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 8E5B91FD
+      parentName: 1EA13BB5
+      position: {x: 0.000000007767486, y: 0.00071632327, z: -3.5403674e-10}
+      rotation: {x: 0.036154624, y: -0.00019928362, z: 0.0011032826, w: 0.9993456}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: 9740A0BC
+      parentName: 8E5B91FD
+      position: {x: -0.000000006581742, y: 0.0005100203, z: 4.3008036e-10}
+      rotation: {x: 0.024423609, y: 0.0045288512, z: -0.0037441342, w: 0.99968445}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BC6DF37F
+      parentName: 9740A0BC
+      position: {x: 0.000000008170066, y: 0.00036437152, z: 0.000000012224809}
+      rotation: {x: 0.29138207, y: -0.017182358, z: -0.02083919, w: 0.9562254}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: 3D6A5549
+      parentName: 68A7C167
+      position: {x: 0.00017176183, y: 0.000031722888, z: -0.00007024393}
+      rotation: {x: -0.39223328, y: -0.02752354, z: -0.1341992, w: 0.90960765}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: 55EF2F64
+      parentName: 3D6A5549
+      position: {x: -0.000000013169264, y: 0.00069539464, z: -0.00000002897122}
+      rotation: {x: 0.0033556044, y: 0.09407309, z: 0.0100133065, w: 0.9955093}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: 4CF41E25
+      parentName: 55EF2F64
+      position: {x: 0.000000006216668, y: 0.00045767907, z: 0.000000024817163}
+      rotation: {x: 0.024662126, y: -0.0015619465, z: -0.00024349053, w: 0.9996946}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999994}
+    - name: 67D94DE6
+      parentName: 4CF41E25
+      position: {x: 0.0000000028424196, y: 0.00034713032, z: -0.000000009729574}
+      rotation: {x: 0.2173037, y: 0.0051893587, z: 0.023303028, w: 0.9758121}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: 0E23CFB6
+      parentName: 68A7C167
+      position: {x: 0.000303072, y: -0.000027971908, z: -0.000031416726}
+      rotation: {x: -0.39862084, y: -0.054983567, z: -0.12738039, w: 0.90656084}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: 4B9416B9
+      parentName: 0E23CFB6
+      position: {x: 0.000000017915653, y: 0.00065885845, z: -0.0000000078200015}
+      rotation: {x: -0.030413147, y: 0.15534814, z: -0.024968524, w: 0.98707587}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: 528F27F8
+      parentName: 4B9416B9
+      position: {x: 0.0000000033468142, y: 0.00035955, z: -0.000000019395483}
+      rotation: {x: 0.027130822, y: 0.0027104304, z: -0.002790346, w: 0.99962443}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 79A2743B
+      parentName: 528F27F8
+      position: {x: -0.0000021983187, y: 0.00026541157, z: 0.00000025034336}
+      rotation: {x: 0.26985264, y: -0.001107752, z: -0.005456003, w: 0.96288556}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 1EB29647
+      parentName: 70FF30F5
+      position: {x: -0.00000002171627, y: 0.0017850001, z: 7.113925e-12}
+      rotation: {x: -0.0000000011128822, y: -0.0052359677, z: -0.000000017789901, w: 0.9999863}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 8282EC18
+      parentName: 17807D17
+      position: {x: 3.0051558e-10, y: 3.2929687e-10, z: 3.5612623e-13}
+      rotation: {x: -0.000000051792597, y: -0.006858415, z: -0.00000003685332, w: 0.9999765}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: F34AFBDD
+      parentName: 81E9F174
+      position: {x: -0.0011900042, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: -0.026176948, w: 0.99965733}
+      scale: {x: 1, y: 1, z: 1}
+    - name: BB4CE2E6
+      parentName: F34AFBDD
+      position: {x: -1.1578058e-11, y: -7.661263e-11, z: -9.834868e-20}
+      rotation: {x: 0.04328612, y: 0.0016985874, z: 0.013126365, w: 0.99897504}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: A257D3A7
+      parentName: F34AFBDD
+      position: {x: -1.1578058e-11, y: -7.661263e-11, z: -8.655156e-21}
+      rotation: {x: 3.9944897e-10, y: -0.72979784, z: 3.7419745e-10, w: 0.683663}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: A0AB3AF3
+      parentName: F34AFBDD
+      position: {x: -0.0010999999, y: 1.15540695e-10, z: 5.023339e-10}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: 9435B63F
+      parentName: F34AFBDD
+      position: {x: -3.7257475e-11, y: -0.0046373294, z: -2.7755575e-19}
+      rotation: {x: 0.06975648, y: 0, z: -0, w: 0.9975641}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: 06DA867C
+      parentName: 9435B63F
+      position: {x: -0.00000050042746, y: -0.00414981, z: -0.0000016831268}
+      rotation: {x: -0.57357645, y: -2.6631664e-10, z: 3.8969106e-10, w: 0.81915206}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: 1FC1B73D
+      parentName: 06DA867C
+      position: {x: 1.4449585e-10, y: -0.0017036537, z: 1.35483265e-11}
+      rotation: {x: -0.2419219, y: 3.799966e-10, z: 8.9176576e-11, w: 0.9702957}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: 03690E2D
+      parentName: F34AFBDD
+      position: {x: 0.000016882877, y: -0.0038325132, z: 0.00000027921857}
+      rotation: {x: -0.026167441, y: 0.9992943, z: 0.000705438, w: 0.026939591}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: 1663C53F
+      parentName: 81E9F174
+      position: {x: 0.0011900034, y: 0.0000000047683715, z: 5.023339e-10}
+      rotation: {x: 0.99965733, y: 0.026176948, z: 1.6005735e-18, w: -6.129524e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 8CC2AC77
+      parentName: 1663C53F
+      position: {x: 3.8741125e-11, y: 4.0254987e-11, z: 1.1950805e-18}
+      rotation: {x: 0.04328612, y: 0.0016986324, z: 0.013126265, w: 0.99897504}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: 95D99D36
+      parentName: 1663C53F
+      position: {x: 3.8741125e-11, y: 4.0254987e-11, z: 1.1950805e-18}
+      rotation: {x: -0.00000031677038, y: -0.72979796, z: 0.00000014596979, w: 0.6836629}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: B9B00BB2
+      parentName: 1663C53F
+      position: {x: 0.0011, y: -1.4799902e-10, z: 1.2021306e-18}
+      rotation: {x: -0.7071068, y: 1.1323969e-25, z: 1.1323969e-25, w: 0.7071068}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: 711C88DD
+      parentName: 1663C53F
+      position: {x: 0.0000000020901831, y: 0.0046373345, z: -9.345578e-10}
+      rotation: {x: 0.06975648, y: 1.5975498e-25, z: -1.1171158e-26, w: 0.9975641}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: 6FEBA565
+      parentName: 711C88DD
+      position: {x: 0.00000049970475, y: 0.004149809, z: 0.0000016844524}
+      rotation: {x: -0.57357645, y: -2.663166e-10, z: 3.8969106e-10, w: 0.81915206}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: 76F09424
+      parentName: 6FEBA565
+      position: {x: -2.5585495e-12, y: 0.0017036537, z: 7.1553125e-10}
+      rotation: {x: -0.2419219, y: 3.799966e-10, z: 8.917658e-11, w: 0.9702957}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: 66E36D3D
+      parentName: 1663C53F
+      position: {x: 0.00001573005, y: 0.0038342273, z: -0.0000017856557}
+      rotation: {x: 0.99965733, y: 0.026176948, z: -1.6005739e-18, w: 6.129524e-17}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,31 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+sysinfo.txt
+
+# VS / JetBrains Rider
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Crash and temporary files
+*.pid
+*.bak
+*.tmp
+*.temp
+
+# Others
+.DS_Store
+*.apk
+*.unitypackage
